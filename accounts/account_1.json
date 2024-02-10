@@ -1,0 +1,997 @@
+{
+    "account_number": "XXXXXXXX4768",
+    "start_date": "2023-06-09",
+    "balance": 612.48,
+    "transactions": [
+        {
+            "txn_date": "2023-06-07",
+            "txn_memo": "Monthly Storage Unit Rent",
+            "txn_value": 94.74,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-06-07",
+            "txn_memo": "Gardening Supplies Purchase",
+            "txn_value": 108.6,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-06-07",
+            "txn_memo": "Bicycle Repair Service",
+            "txn_value": 27.73,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-06-06",
+            "txn_memo": "Luxury Spa Treatment",
+            "txn_value": 116.43,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-06-06",
+            "txn_memo": "Magazine Subscription",
+            "txn_value": 47.82,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-06-06",
+            "txn_memo": "Magazine Subscription",
+            "txn_value": 43.66,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-06-03",
+            "txn_memo": "Ice Cream Parlor Visit",
+            "txn_value": 200.06,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-06-01",
+            "txn_memo": "Car Rental Fee",
+            "txn_value": 207.08,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-06-01",
+            "txn_memo": "Payroll Deposit",
+            "txn_value": 3607.07,
+            "txn_type": "credit"
+        },
+        {
+            "txn_date": "2023-05-30",
+            "txn_memo": "Home Appliance Repair",
+            "txn_value": 49.73,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-30",
+            "txn_memo": "Coffee Shop Visit",
+            "txn_value": 72.52,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-30",
+            "txn_memo": "Hair Salon Appointment",
+            "txn_value": 84.96,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-28",
+            "txn_memo": "Movie Theater Tickets",
+            "txn_value": 118.24,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-28",
+            "txn_memo": "Public Transportation Fare",
+            "txn_value": 72.47,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-27",
+            "txn_memo": "Hotel Accommodation",
+            "txn_value": 122.26,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-27",
+            "txn_memo": "Restaurant Dining",
+            "txn_value": 44.01,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-27",
+            "txn_memo": "Online Retail Order",
+            "txn_value": 78.24,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-23",
+            "txn_memo": "Gas Station Refuel",
+            "txn_value": 128.99,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-23",
+            "txn_memo": "Apparel Shopping",
+            "txn_value": 89.64,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-22",
+            "txn_memo": "Monthly Storage Unit Rent",
+            "txn_value": 127.82,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-22",
+            "txn_memo": "Home Appliance Repair",
+            "txn_value": 35.26,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-22",
+            "txn_memo": "Bicycle Repair Service",
+            "txn_value": 57.3,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-21",
+            "txn_memo": "Monthly Storage Unit Rent",
+            "txn_value": 229.63,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-19",
+            "txn_memo": "Electronics Store Purchase",
+            "txn_value": 101.95,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-19",
+            "txn_memo": "Local Craft Market",
+            "txn_value": 106.11,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-16",
+            "txn_memo": "Grocery Store Purchase",
+            "txn_value": 38.32,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-16",
+            "txn_memo": "Home Cleaning Service",
+            "txn_value": 106.43,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-16",
+            "txn_memo": "Yoga Studio Membership",
+            "txn_value": 68.12,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-13",
+            "txn_memo": "Fast Food Restaurant",
+            "txn_value": 47.61,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-13",
+            "txn_memo": "Airline Ticket Purchase",
+            "txn_value": 75.74,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-13",
+            "txn_memo": "Train Ticket Purchase",
+            "txn_value": 93.05,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-10",
+            "txn_memo": "Apparel Shopping",
+            "txn_value": 53.08,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-10",
+            "txn_memo": "Airline Ticket Purchase",
+            "txn_value": 131.64,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-10",
+            "txn_memo": "Coffee Shop Visit",
+            "txn_value": 27.6,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-07",
+            "txn_memo": "Theater Ticket Booking",
+            "txn_value": 125.77,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-07",
+            "txn_memo": "Public Transportation Fare",
+            "txn_value": 73.87,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-06",
+            "txn_memo": "Restaurant Dining",
+            "txn_value": 34.39,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-06",
+            "txn_memo": "Bakery Visit",
+            "txn_value": 180.56,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-05",
+            "txn_memo": "Fitness Equipment Purchase",
+            "txn_value": 132.83,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-05",
+            "txn_memo": "Grocery Store Purchase",
+            "txn_value": 88.55,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-03",
+            "txn_memo": "Luxury Spa Treatment",
+            "txn_value": 94.8,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-03",
+            "txn_memo": "Monthly Gym Membership",
+            "txn_value": 120.66,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-02",
+            "txn_memo": "Optical Care Expenses",
+            "txn_value": 223.65,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-01",
+            "txn_memo": "Luxury Spa Treatment",
+            "txn_value": 259.19,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-05-01",
+            "txn_memo": "Payroll Deposit",
+            "txn_value": 3682.79,
+            "txn_type": "credit"
+        },
+        {
+            "txn_date": "2023-04-27",
+            "txn_memo": "Hair Salon Appointment",
+            "txn_value": 89.43,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-27",
+            "txn_memo": "Bakery Visit",
+            "txn_value": 23.53,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-27",
+            "txn_memo": "Home Appliance Repair",
+            "txn_value": 122.38,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-22",
+            "txn_memo": "Optical Care Expenses",
+            "txn_value": 53.77,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-22",
+            "txn_memo": "Concert Tickets",
+            "txn_value": 170.28,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-18",
+            "txn_memo": "Online Retail Order",
+            "txn_value": 125.26,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-18",
+            "txn_memo": "Luxury Spa Treatment",
+            "txn_value": 98.42,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-14",
+            "txn_memo": "Gadget Insurance Premium",
+            "txn_value": 46.32,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-14",
+            "txn_memo": "Dental Care Bill",
+            "txn_value": 50.95,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-14",
+            "txn_memo": "Video Game Purchase",
+            "txn_value": 134.33,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-12",
+            "txn_memo": "Art Supplies Order",
+            "txn_value": 59.65,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-12",
+            "txn_memo": "Art Supplies Order",
+            "txn_value": 169.77,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-11",
+            "txn_memo": "Local Craft Market",
+            "txn_value": 95.47,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-11",
+            "txn_memo": "Sushi Restaurant Dining",
+            "txn_value": 143.21,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-10",
+            "txn_memo": "Airport Lounge Access",
+            "txn_value": 138.66,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-10",
+            "txn_memo": "Gift Shop Purchase",
+            "txn_value": 108.95,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-03",
+            "txn_memo": "Restaurant Dining",
+            "txn_value": 199.4,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-03",
+            "txn_memo": "Payroll Deposit",
+            "txn_value": 3688.72,
+            "txn_type": "credit"
+        },
+        {
+            "txn_date": "2023-04-01",
+            "txn_memo": "Car Rental Fee",
+            "txn_value": 66.52,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-01",
+            "txn_memo": "Bookstore Order",
+            "txn_value": 93.13,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-04-01",
+            "txn_memo": "Furniture Store Purchase",
+            "txn_value": 106.43,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-31",
+            "txn_memo": "Parking Ticket Payment",
+            "txn_value": 131.88,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-31",
+            "txn_memo": "Public Transportation Fare",
+            "txn_value": 84.32,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-29",
+            "txn_memo": "Bakery Visit",
+            "txn_value": 36.83,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-29",
+            "txn_memo": "Taxi Ride Fare",
+            "txn_value": 149.61,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-29",
+            "txn_memo": "Parking Ticket Payment",
+            "txn_value": 43.73,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-22",
+            "txn_memo": "Theater Ticket Booking",
+            "txn_value": 55.43,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-22",
+            "txn_memo": "Electronics Store Purchase",
+            "txn_value": 82.12,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-22",
+            "txn_memo": "Fitness Equipment Purchase",
+            "txn_value": 67.75,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-21",
+            "txn_memo": "Bakery Visit",
+            "txn_value": 94.22,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-21",
+            "txn_memo": "Optical Care Expenses",
+            "txn_value": 124.89,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-20",
+            "txn_memo": "Flower Shop Order",
+            "txn_value": 110.81,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-20",
+            "txn_memo": "Luxury Spa Treatment",
+            "txn_value": 87.06,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-18",
+            "txn_memo": "Gift Shop Purchase",
+            "txn_value": 49.42,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-18",
+            "txn_memo": "Theater Ticket Booking",
+            "txn_value": 185.91,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-16",
+            "txn_memo": "Cable TV Subscription",
+            "txn_value": 24.97,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-16",
+            "txn_memo": "Utility Bill Payment",
+            "txn_value": 183.11,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-11",
+            "txn_memo": "Pharmacy Prescription Refill",
+            "txn_value": 28.89,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-11",
+            "txn_memo": "Pet Supply Store",
+            "txn_value": 193.37,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-10",
+            "txn_memo": "Movie Theater Tickets",
+            "txn_value": 199.36,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-07",
+            "txn_memo": "Taxi Ride Fare",
+            "txn_value": 92.85,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-07",
+            "txn_memo": "Flower Shop Order",
+            "txn_value": 60.46,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-07",
+            "txn_memo": "Ice Cream Parlor Visit",
+            "txn_value": 62.62,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-04",
+            "txn_memo": "Video Game Purchase",
+            "txn_value": 49.13,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-04",
+            "txn_memo": "Public Transportation Fare",
+            "txn_value": 44.22,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-04",
+            "txn_memo": "Online Retail Order",
+            "txn_value": 152.3,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-03",
+            "txn_memo": "Movie Theater Tickets",
+            "txn_value": 133.92,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-03",
+            "txn_memo": "Cable TV Subscription",
+            "txn_value": 41.85,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-03",
+            "txn_memo": "Parking Garage Fee",
+            "txn_value": 33.48,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-02",
+            "txn_memo": "Concert Tickets",
+            "txn_value": 106.15,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-02",
+            "txn_memo": "Monthly Gym Membership",
+            "txn_value": 119.7,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-03-01",
+            "txn_memo": "Payroll Deposit",
+            "txn_value": 3869.28,
+            "txn_type": "credit"
+        },
+        {
+            "txn_date": "2023-02-28",
+            "txn_memo": "Local Craft Market",
+            "txn_value": 121.81,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-28",
+            "txn_memo": "Gardening Supplies Purchase",
+            "txn_value": 31.44,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-28",
+            "txn_memo": "Dental Care Bill",
+            "txn_value": 43.22,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-25",
+            "txn_memo": "Luxury Spa Treatment",
+            "txn_value": 208.39,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-22",
+            "txn_memo": "Home Improvement Store",
+            "txn_value": 210.57,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-20",
+            "txn_memo": "Veterinary Services",
+            "txn_value": 37.81,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-20",
+            "txn_memo": "Fast Food Restaurant",
+            "txn_value": 184.6,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-19",
+            "txn_memo": "Bicycle Repair Service",
+            "txn_value": 48.37,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-19",
+            "txn_memo": "Local Craft Market",
+            "txn_value": 181.96,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-16",
+            "txn_memo": "Sushi Restaurant Dining",
+            "txn_value": 63.62,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-16",
+            "txn_memo": "Airport Lounge Access",
+            "txn_value": 155.77,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-15",
+            "txn_memo": "Concert Tickets",
+            "txn_value": 113.5,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-15",
+            "txn_memo": "Bookstore Order",
+            "txn_value": 113.5,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-12",
+            "txn_memo": "Sporting Goods Purchase",
+            "txn_value": 138.45,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-12",
+            "txn_memo": "Restaurant Dining",
+            "txn_value": 57.29,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-12",
+            "txn_memo": "Subscription Service Fee",
+            "txn_value": 42.97,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-09",
+            "txn_memo": "Restaurant Dining",
+            "txn_value": 142.28,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-09",
+            "txn_memo": "Grocery Store Purchase",
+            "txn_value": 94.85,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-07",
+            "txn_memo": "Online Retail Order",
+            "txn_value": 208.28,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-03",
+            "txn_memo": "Kids' Play Center Visit",
+            "txn_value": 89.49,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-03",
+            "txn_memo": "Hotel Accommodation",
+            "txn_value": 56.52,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-03",
+            "txn_memo": "Electronics Store Purchase",
+            "txn_value": 89.49,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-02",
+            "txn_memo": "Gadget Insurance Premium",
+            "txn_value": 203.62,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-01",
+            "txn_memo": "Electronics Store Purchase",
+            "txn_value": 106.35,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-01",
+            "txn_memo": "Professional Conference Fee",
+            "txn_value": 129.98,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-02-01",
+            "txn_memo": "Payroll Deposit",
+            "txn_value": 3643.56,
+            "txn_type": "credit"
+        },
+        {
+            "txn_date": "2023-01-31",
+            "txn_memo": "Dental Care Bill",
+            "txn_value": 20.33,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-31",
+            "txn_memo": "Bookstore Order",
+            "txn_value": 182.97,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-30",
+            "txn_memo": "Airline Ticket Purchase",
+            "txn_value": 34.08,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-30",
+            "txn_memo": "Subscription Service Fee",
+            "txn_value": 112.27,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-30",
+            "txn_memo": "Fast Food Restaurant",
+            "txn_value": 54.13,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-29",
+            "txn_memo": "Magazine Subscription",
+            "txn_value": 204.15,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-28",
+            "txn_memo": "Home Improvement Store",
+            "txn_value": 89.76,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-28",
+            "txn_memo": "Pharmacy Prescription Refill",
+            "txn_value": 21.98,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-28",
+            "txn_memo": "Sushi Restaurant Dining",
+            "txn_value": 71.44,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-25",
+            "txn_memo": "Video Game Purchase",
+            "txn_value": 118.18,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-25",
+            "txn_memo": "Furniture Store Purchase",
+            "txn_value": 31.65,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-25",
+            "txn_memo": "Ice Cream Parlor Visit",
+            "txn_value": 61.2,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-24",
+            "txn_memo": "Software Subscription Fee",
+            "txn_value": 22.55,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-24",
+            "txn_memo": "Bakery Visit",
+            "txn_value": 202.94,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-23",
+            "txn_memo": "Parking Ticket Payment",
+            "txn_value": 202.1,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-22",
+            "txn_memo": "Online Course Enrollment",
+            "txn_value": 140.74,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-22",
+            "txn_memo": "Gift Shop Purchase",
+            "txn_value": 52.21,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-22",
+            "txn_memo": "Dry Cleaning Service",
+            "txn_value": 34.05,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-21",
+            "txn_memo": "Bicycle Repair Service",
+            "txn_value": 118.44,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-21",
+            "txn_memo": "Software Subscription Fee",
+            "txn_value": 100.9,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-20",
+            "txn_memo": "Parking Garage Fee",
+            "txn_value": 122.98,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-20",
+            "txn_memo": "Professional Conference Fee",
+            "txn_value": 70.6,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-20",
+            "txn_memo": "Parking Garage Fee",
+            "txn_value": 34.16,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-19",
+            "txn_memo": "Movie Theater Tickets",
+            "txn_value": 82.46,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-19",
+            "txn_memo": "Veterinary Services",
+            "txn_value": 123.69,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-16",
+            "txn_memo": "Online Retail Order",
+            "txn_value": 220.25,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-15",
+            "txn_memo": "Gardening Supplies Purchase",
+            "txn_value": 59.79,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-15",
+            "txn_memo": "Dental Care Bill",
+            "txn_value": 94.29,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-15",
+            "txn_memo": "Local Craft Market",
+            "txn_value": 75.89,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-14",
+            "txn_memo": "Apparel Shopping",
+            "txn_value": 41.3,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-14",
+            "txn_memo": "Magazine Subscription",
+            "txn_value": 165.22,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-12",
+            "txn_memo": "Charitable Donation",
+            "txn_value": 55.59,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-12",
+            "txn_memo": "Kids' Play Center Visit",
+            "txn_value": 83.38,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-12",
+            "txn_memo": "Yoga Studio Membership",
+            "txn_value": 59.56,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-07",
+            "txn_memo": "Parking Garage Fee",
+            "txn_value": 80.19,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-07",
+            "txn_memo": "Subscription Service Fee",
+            "txn_value": 148.92,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-06",
+            "txn_memo": "Train Ticket Purchase",
+            "txn_value": 53.91,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-06",
+            "txn_memo": "Kids' Play Center Visit",
+            "txn_value": 145.76,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-02",
+            "txn_memo": "Movie Theater Tickets",
+            "txn_value": 207.97,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-01",
+            "txn_memo": "Magazine Subscription",
+            "txn_value": 78.24,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-01",
+            "txn_memo": "Pet Supply Store",
+            "txn_value": 24.45,
+            "txn_type": "debit"
+        },
+        {
+            "txn_date": "2023-01-01",
+            "txn_memo": "Grocery Store Purchase",
+            "txn_value": 141.81,
+            "txn_type": "debit"
+        }
+    ]
+}
